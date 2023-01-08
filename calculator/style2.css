@@ -1,0 +1,7 @@
+.kotak {
+  background: blue;
+  position: absolute;
+  left: 40px;
+  padding: 10px;
+  z-index: 3;
+}
